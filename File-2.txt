@@ -1,0 +1,1 @@
+This is the second file in this practice folder (directory). More text can be added to this in notepad, visual studio, or some other text editor.
