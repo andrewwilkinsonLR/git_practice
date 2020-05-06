@@ -18,13 +18,13 @@ By organizing its sales network and accounts exactly as in the real world, it is
 
 ## Define Account Access With Organizational Roles and Permissions
 
-In Liferay Commerce, B2B businesses can use Organization-level roles and permissions to carefully define what each role can and can't do, and then those roles can be assigned to every salesperson.
-
    <img src="../images/02.png" width="700px" style="border: #000000 1px solid;">
 
-Some of the different permissions that can be assigned to an Organization member include: the ability to view different regions (suborganizations), the ability to assign roles, and the ability to view account data, whether or not they receive notifications, view order history, edit orders, etc.
+By assigning roles to every salesperson, what he can and can't do (permissions) are set within Liferay Commerce.
 
    <img src="../images/03.png" width="700px" style="border: #000000 1px solid;">
+
+Some of the different permissions that can be assigned to an Organization member include: the ability to view different regions (suborganizations), the ability to assign roles, and the ability to view account data, whether or not they receive notifications, view order history, edit orders, etc.
 
 In this way, a business can give each salesperson access to the proper account information with proper allowable actions. This clarity is empowering for each salesperson, and it also facilitates collaboration between salespersons within the same organization or who otherwise have mutual access to an account.
 
