@@ -2,15 +2,13 @@
 
 A B2B business' real world sales network hierarchy can be mirrored in Liferay Commerce running on DXP using the Organizations feature. In Commerce and DXP, an Organization is a hierarchical arrangement of Users that can model real-world organizational hierarchies – such as a sales network – and that enables distributed and simplified management of Users, Roles, Permissions and Accounts, for enhanced security and collaboration.
 
-(Note: A Role is a collection of permissions that can be granted to a User. A Permission is any specific assignable action a User may take, such as view a menu, account or widget, assign Roles, add Users, etc. For more on Roles and Permissions, see _____.) 
+> **Note:** A Role is a collection of permissions that can be granted to a User. A Permission is any specific assignable action a User may take, such as view a menu, account or widget, assign Roles, add Users, etc. For more on Roles and Permissions, see _____.
 
 When Organizations are used along with assigning permissions to Organization Roles, users simply need to be assigned to an organization to inherit the correct permissions that were defined for it. For example, a B2B company can give everyone in their sales network access to the right account information through their organizational membership.
 
 Additionally, when someone transfers to another part of the organization, simply move the user to another organization in Liferay Commerce and there's no need to hassle with updating the user's individual roles and permissions. For example, a B2B company can quickly and easily add or remove access to account information when there are sales network personnel changes, by simply changing the user's organizational membership.
 
 Below, we'll demonstrate using Organizations to create a sales network.
-
-# OPTION 4
 
 ## Mirror Real-World Organizational Hierarchies
 
