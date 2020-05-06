@@ -8,7 +8,7 @@ When Organizations are used along with assigning permissions to Organization Rol
 
 Additionally, when someone transfers to another part of the organization, simply move the user to another organization in Liferay Commerce and there's no need to hassle with updating the user's individual roles and permissions. For example, a B2B company can quickly and easily add or remove access to account information when there are sales network personnel changes, by simply changing the user's organizational membership.
 
-Below, we'll demonstrate using Organizations to create a sales network.
+Next, we'll illustrate each of these aspects of using Organizations to create a sales network.
 
 ## Mirror Real-World Organizational Hierarchies
 
@@ -38,7 +38,7 @@ For example, if a salesperson's status changes (hired, promoted, changes regions
 
 (Double/Dual-Screenshot: Show User's permissions before the move and after the move)
 
-## Using Organizations: Clear Organization, Proper Access, Easy Administration
+## Organized, Defined, & Managed Account Access
 
 Once a B2B business takes these steps with Liferay Commerce, it has clear organization, proper access, and easy administration. The business mirrors its real-world organizational hierarchy in its digital environment, it gives access to the right people with the right information, and it has made it quicker and easier to administer access over time.
 
