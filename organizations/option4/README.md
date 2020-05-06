@@ -14,15 +14,17 @@ Next, we'll illustrate each of these aspects of using Organizations to create a 
 
    <img src="../images/01.png" width="700px" style="border: #000000 1px solid;">
 
-By organizing its sales network and accounts exactly as in the real world, it is easy for sales team members to navigate within Liferay Commerce.
+Organizing sales network and accounts exactly as in the real world makes it easy for sales team members to navigate within Liferay Commerce.
 
 ## Define Account Access With Organizational Roles and Permissions
 
    <img src="../images/02.png" width="700px" style="border: #000000 1px solid;">
 
-By assigning roles to every salesperson, what he can and can't do (permissions) are set within Liferay Commerce.
+Assigning roles to every salesperson specifies what they can and can't do within Liferay Commerce (that is, once permissions are defined and assigned to roles).
 
    <img src="../images/03.png" width="700px" style="border: #000000 1px solid;">
+
+Assigning a collection of permissions to each role defines that role within Liferay Commerce (which can then be applied to users). In addition, ____ can create new/custom permissions
 
 Some of the different permissions that can be assigned to an Organization member include: the ability to view different regions (suborganizations), the ability to assign roles, and the ability to view account data, whether or not they receive notifications, view order history, edit orders, etc.
 
