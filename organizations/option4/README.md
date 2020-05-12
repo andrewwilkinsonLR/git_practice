@@ -30,13 +30,13 @@ Some examples of permissions include: view sub-Organizations (for example, Regio
 
 ## Manage Long-Term Access With Organizational Membership
 
-In Liferay Commerce, once Organizations, Roles and Permissions are set up and assigned, administrators in a B2B business are ready for any personnel changes or structural reorganization that arise.
-
    <img src="../images/04.png" width="700px" style="border: #000000 1px solid;">
 
-For example, if a salesperson's status changes (hired, promoted, changes regions, leaves the company, etc.), his role and permissions can easily be changed by an administrator indirectly by simply moving his organizational membership, as opposed to having to manage each individual permission assigned to that person.
+Managing roles and permissions long-term can be easily accomplished within Liferay Commerce by managing a user's organizational membership (once Organizations, Roles and Permissions are set up and assigned).
 
+<!---
 (Double/Dual-Screenshot: Show User's permissions before the move and after the move)
+-->
 
 ## Organized, Defined, & Managed Account Access
 
