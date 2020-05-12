@@ -20,15 +20,13 @@ Organizing sales network and accounts exactly as in the real world makes it easy
 
    <img src="../images/02.png" width="700px" style="border: #000000 1px solid;">
 
-Assigning roles to every salesperson specifies what they can and can't do within Liferay Commerce (that is, once permissions are defined and assigned to roles).
+Assigning roles to every salesperson specifies what they can and can't do within Liferay Commerce (that is, once permissions are defined and assigned to roles). One example is giving multiple salespersons access to an account so they can collaborate on it.
 
    <img src="../images/03.png" width="700px" style="border: #000000 1px solid;">
 
 Assigning a collection of permissions to each role defines that role within Liferay Commerce (which can then be applied to users). In addition, ____ can create new/custom permissions
 
-Some of the different permissions that can be assigned to an Organization member include: the ability to view different regions (suborganizations), the ability to assign roles, and the ability to view account data, whether or not they receive notifications, view order history, edit orders, etc.
-
-In this way, a business can give each salesperson access to the proper account information with proper allowable actions. This clarity is empowering for each salesperson, and it also facilitates collaboration between salespersons within the same organization or who otherwise have mutual access to an account.
+Some examples of permissions include: view sub-Organizations (for example, Regions), account data or order history; edit orders, receive notifications, and assign roles. For more on Permissions, see ______.
 
 ## Manage Long-Term Access With Organizational Membership
 
