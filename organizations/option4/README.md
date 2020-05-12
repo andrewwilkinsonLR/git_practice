@@ -54,3 +54,4 @@ This article shows one way that a B2B business could use Organizations in Lifera
 * [Adding a New Organization Type](https://learn.liferay.com/dxp-7.x/users-and-permissions/organizations/adding-a-new-organization-type.html)
 * [Managing Roles](https://help.liferay.com/hc/en-us/articles/360018174371-Managing-Roles)
 * [Defining Role Permissions](https://help.liferay.com/hc/en-us/articles/360018174391-Defining-Role-Permissions)
+* [Connecting Accounts and Organizations](about:blank)
