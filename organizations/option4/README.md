@@ -20,7 +20,7 @@ Organizing sales network and accounts exactly as in the real world makes it easy
 
    <img src="../images/02.png" width="700px" style="border: #000000 1px solid;">
 
-Assigning roles to every salesperson specifies what they can and can't do within Liferay Commerce (that is, once permissions are defined and assigned to roles). One example is giving multiple salespersons access to an account so they can collaborate on it.
+Assigning roles to every salesperson specifies what they can and can't do within Liferay Commerce (that is, once permissions are defined and assigned to roles).
 
    <img src="../images/03.png" width="700px" style="border: #000000 1px solid;">
 
