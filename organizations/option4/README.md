@@ -42,7 +42,7 @@ Managing roles and permissions long-term can be easily accomplished within Lifer
 
 By organizing a sales network and accounts (or any organizational hierarchy) to mirror the real world hierarchy, assigning roles to every salesperson (or team member) as well as defining roles via permissions, then managing roles and permissions long-term via organizational membership, a B2B business can use Organizations to create a sales network.
 
-For step-by-step guidance how to set up Organizations, Roles and Permissions, as well as how to connect accounts and organizations, see the [Additional Information](#additional-information) section, below.
+For step-by-step guidance how to set up Organizations, Roles and Permissions, as well as how to connect accounts and organizations for a sales network, see the [Additional Information](#additional-information) section, below.
 
 Organizations, Roles & Permissions are a versatile feature of Liferay Commerce and DXP, capable of being used for numerous solutions.
 
