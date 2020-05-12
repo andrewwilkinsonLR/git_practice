@@ -14,7 +14,7 @@ Next, we'll illustrate each of these aspects of using Organizations to create a 
 
    <img src="../images/01.png" width="700px" style="border: #000000 1px solid;">
 
-Organizing sales network and accounts exactly as in the real world makes it easy for sales team members to navigate within Liferay Commerce.
+Organizing a sales network and accounts exactly as in the real world makes it easy for sales team members to navigate within Liferay Commerce.
 
 ## Define Account Access With Organizational Roles and Permissions
 
