@@ -24,9 +24,9 @@ Assigning roles to every salesperson specifies what they can and can't do within
 
    <img src="../images/03.png" width="700px" style="border: #000000 1px solid;">
 
-Assigning a collection of permissions to each role defines that role within Liferay Commerce (which can then be applied to users). ***In addition, ____ can create new/custom permissions.***
+Assigning a collection of permissions to each role defines that role within Liferay Commerce (which can then be applied to users).
 
-Some examples of permissions include: view sub-Organizations (for example, Regions), account data or order history; manage orders, ***receive notifications***, and assign roles. For more on Permissions, see [Defining Role Permissions](https://help.liferay.com/hc/en-us/articles/360018174391-Defining-Role-Permissions)].
+Some examples of permissions include: view sub-Organizations (for example, Regions), account data or order history; manage orders, and assign roles. For more on Permissions, see [Defining Role Permissions](https://help.liferay.com/hc/en-us/articles/360018174391-Defining-Role-Permissions)].
 
 ## Manage Long-Term Access With Organizational Membership
 
