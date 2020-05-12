@@ -2,7 +2,7 @@
 
 A B2B business' real world sales network hierarchy can be mirrored in Liferay Commerce running on DXP using the Organizations feature. In Commerce and DXP, an Organization is a hierarchical arrangement of Users that can model real-world organizational hierarchies – such as a sales network – and that enables distributed and simplified management of Users, Roles, Permissions and Accounts, for enhanced security and collaboration.
 
-> **Note:** A Role is a collection of permissions that can be granted to a User. A Permission is any specific assignable action a User may take, such as view a menu, account or widget, assign Roles, add Users, etc. For more on Roles and Permissions, see _____.
+> **Note:** A Role is a collection of permissions that can be granted to a User. A Permission is any specific assignable action a User may take, such as view a menu, account or widget, assign Roles, add Users, etc. For more on [Roles](https://help.liferay.com/hc/en-us/articles/360018174371-Managing-Roles) and [Permissions](https://help.liferay.com/hc/en-us/articles/360018174391-Defining-Role-Permissions), see these articles.
 
 When Organizations are used along with assigning permissions to Organization Roles, users simply need to be assigned to an organization to inherit the correct permissions that were defined for it. For example, a B2B company can give everyone in their sales network access to the right account information through their organizational membership.
 
@@ -24,9 +24,9 @@ Assigning roles to every salesperson specifies what they can and can't do within
 
    <img src="../images/03.png" width="700px" style="border: #000000 1px solid;">
 
-Assigning a collection of permissions to each role defines that role within Liferay Commerce (which can then be applied to users). In addition, ____ can create new/custom permissions
+Assigning a collection of permissions to each role defines that role within Liferay Commerce (which can then be applied to users). ***In addition, ____ can create new/custom permissions.***
 
-Some examples of permissions include: view sub-Organizations (for example, Regions), account data or order history; edit orders, receive notifications, and assign roles. For more on Permissions, see ______.
+Some examples of permissions include: view sub-Organizations (for example, Regions), account data or order history; manage orders, ***receive notifications***, and assign roles. For more on Permissions, see [Defining Role Permissions](https://help.liferay.com/hc/en-us/articles/360018174391-Defining-Role-Permissions)].
 
 ## Manage Long-Term Access With Organizational Membership
 
